@@ -46,6 +46,7 @@
 <code><img title="VS Code" height="40" src="./assets/vscode.svg"></code>
 <code><img title="GitHub" height="40" src="./assets/github.svg"></code>
 <code><img title="Postman" height="40" src="./assets/postman.svg"></code>
+<code><img title="Cypress" height="40" src="./assets/cypress.svg"></code>
 <code><img title="NPM" height="40" src="./assets/npm.svg"></code>
 <code><img title="Firebase" height="40" src="./assets/firebase.svg"></code>
 <code><img title="Netlify" height="40" src="./assets/netlify.svg"></code>

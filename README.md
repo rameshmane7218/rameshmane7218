@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ramesh</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
-- 🔭 I’m currently pursuing **Full Stack Web Development**
+- 🔭 I’m currently pursuing ** Full Stack Web Development **
 
 - 🌱 I’m currently learning **Node, Express, MongoDB**
 

@@ -41,6 +41,7 @@
 <code><img title="CSS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img title="Bootstrap" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
 <code><img title="Chakra-UI" height="40" src="./assets/chakra-ui.svg"></code>
+<code><img title="Styled Components" height="50" src="./assets/styled-components.png"></code>
 
 <code><img title="VS Code" height="40" src="./assets/vscode.svg"></code>
 <code><img title="GitHub" height="40" src="./assets/github.svg"></code>

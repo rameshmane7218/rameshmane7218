@@ -10,10 +10,7 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif"> -->
 
-<br/>
-<br/>
-
-- 🌱 I’m currently learning **Node, Express, MongoDB**
+- 🌱 I’m currently learning **Node, Express, MongoDB, Nextjs**
 
 - 👯 I’m looking to collaborate on **any awesome projects**
 
@@ -27,30 +24,33 @@
 
 ---
 
-**Languages and Tools:**
+## 💼 Languages and Tools:
 
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:5px;">
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img title="HTML5" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="30" src="./assets/nextjs.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-<code><img height="30" src="./assets/chakra-ui.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
 <code><img height="30" src="./assets/redis.svg"></code>
 <code><img height="30" src="./assets/jwt.svg"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
+<code><img height="30" src="./assets/chakra-ui.svg"></code>
+
+<code><img height="30" src="./assets/vscode.svg"></code>
+<code><img height="30" src="./assets/github.svg"></code>
 <code><img height="30" src="./assets/postman.svg"></code>
 <code><img height="30" src="./assets/npm.svg"></code>
 <code><img height="30" src="./assets/firebase.svg"></code>
 <code><img height="30" src="./assets/netlify.svg"></code>
 <code><img height="30" src="./assets/vercel.svg"></code>
 <code><img height="30" src="./assets/heroku.svg"></code>
-</div>
+
 ---
 
 </div>

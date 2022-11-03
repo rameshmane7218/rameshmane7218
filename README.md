@@ -10,7 +10,7 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif"> -->
 
-- 🌱 I’m currently learning **Node, Express, MongoDB, Nextjs**
+- 🌱 I’m currently focusing on building React UI Library which provides a set of accessible and customizable React components that make it easy to create websites. Available on [npm](https://www.npmjs.com/package/@rameshmane7218/react-ui-library)
 
 - 👯 I’m looking to collaborate on **any awesome projects**
 

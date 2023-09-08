@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **any awesome projects**
 
-- 👨‍💻 All of my projects are available at [https://rameshmane.gatsbyjs.io/](https://rameshmane.gatsbyjs.io/)
+- 👨‍💻 All of my projects are available at [https://rameshmane.vercel.app/](https://rameshmane.vercel.app/)
 
 - 💬 Ask me about **any tech related stuff, I will be happy to help**
 
